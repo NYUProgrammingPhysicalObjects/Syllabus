@@ -286,10 +286,24 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 		
 - For Homework:
 	- Work on Final Project – prepare Alpha version for next week
-
-For Homework:
+	For Homework:
 		Work on Final Project
 
+###Week 12: April 21
+- In Class:
+	- **Exercise 3: Working Prototype/Alpha for Final Project Due**
+	- Workshop & In Class Challenge – Sensor Taming - Noisy Sensors 
+	- Individual Meetings re: Final Project
+	
+- For Homework:
+	- UX Study and Feedback
+
+		
+###Week 13: May 5
+- In Class:
+	- Workshop By Requests		
+	- Studio time
+		
 ###Week 14: May 12 – Last Day of Class
 - In Class:
 	- In-class trouble shooting
