@@ -164,8 +164,8 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 
 ###Week 2: February 3
 -In Class:
-		Parts 101 Quiz
-		Workshop: Basic Circuits, parallel & series, ohm, switches
+		- Parts 101 Quiz
+		- Workshop: Basic Circuits, parallel & series, ohm, switches
 
 - For Homework:
 	- Read:
@@ -176,6 +176,128 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 
 		Design 1: Create a mock-up design for a fantasy device.  Use wireframes to describe how this device looks and functions. This device can be simple or complex but should not be a simple add-on to an existing device. Think of the behaviors and capabilities that are needed. Create an image detailing the device and a short description. Submit it as a PDF.
 
+###Week 3: February 10- 
+- In Class: 
+		- Present Exercise 1 & Fantasy Device
+		- Workshop: Switches & DIY
+		- Sketch and Design 3 different custom switches
 
+- For Homework:
+	- Do:
+		- Design 2: Create 2 custom functioning DIY switches
+	- Read: 
+		- Arduino Cookbook - Read Ch 1, familiarize yourself with Ch 2
+
+###Week 4: February 17
+- In Class:
+	- Present Switches working in a simple circuit
+	- Workshop: Breadboard, Programming Arduino, Digital & Analog Out
+	- Stupid Pet Tricks brief announced
+		
+- For Homework:
+	- Read: 
+		- Arduino Cookbook  - Ch 8, 5-6
+			
+	- Do:
+		- Gather materials/devices/supplies for Stupid Pet Tricks I
+		- Start hacking and assembling Stupid Pet Tricks I: Stage 1: make output happen
+		
+###Week 5: February 24
+- In Class:
+	- Workshop: Digital & Analog In: switches, sensors (FSR, Photocell, flex), pull up/down resistor Debounce
+	- In-Class Challenge: Output and Input
+	- Stupid Pet Tricks Studio time
+		
+- For Homework:
+	- Read:
+		- Arduino Cookbook – Chapter 2
+		- Physical Computing- Chapter 6
+	- Do:
+		- Complete Stupid Pet Tricks I
+		
+###Week 6: March 3 
+- In Class:
+	- Present Stupid Pet Tricks
+	- Workshop: Controlling higher watt & AC devices – DC motors, relays, TIP’s, voltage regulators
+	- In-Class Challenge: Controlling high output devices
+		
+- For Homework:
+	- Do: 	
+		- Use a tip or relay as an interface controlling output (dc motor, fairy lights, ac fan, etc). Control it based upon some sort of arduino input through code. Modulate/choreograph the output based upon input.
+	- Read:
+		- Physical Computing - Chapter 8 - Techniques for Polite Conversation
+ 		- Emotional Design
+
+###Part 2: Networking and reliable interaction
+
+###Week 7: March 10
+- In Class:
+	- Workshop: Techniques for Polite Conversation - Thresholds, Edges, Peaks;
+		- In-class challenge: Input
+
+	- For Homework:
+		- Read:
+			- Physical Computing – Ch. 9 Sensing Movement
+		- Do:
+			- TBA
+	
+
+###Spring Break – March 17th
+
+###Week 8: March 24
+- In Class:
+	- Workshop: Networking 1:  Arduino to Processing and Max/MSP
+		- In Class Challenge: Networking – Stupid Pet Tricks II
+
+	- For Homework:
+		- Read: TBA
+		
+		- Do: TBA
+			- Begin researching your final project.
+		
+###Week 9: March 31st
+- In Class: 
+	- Workshop: Networking II: Arduino to Bluetooth, Twitter, etc 
+		- In Class Challenge: Networking – Stupid Pet Tricks II
+
+	- For Homework:
+		- Do: 
+			- Prepare for Final Project Roundtable – Create 3 sets of sketches (1 for each idea, with 2 references for each idea), including mapping for each system
+
+
+###Part 3: Final Project
+
+
+###Week 10: April 7th 
+- In Class:
+	- Roundtable for the Final
+	- Workshop: Other devices & libraries: Kinect, small screens, buses & hub
+
+- For Homework:
+	- Do:
+		- Acquire parts for final project 
+		- Work on Alpha for final Project prototype
+			
+					
+###Week 11: April 14th
+- In Class:
+	- Workshop: Noisy Data - Cleaning up your input – Scaling, Smoothing, Averaging Arrays, Sorting Arrays
+	- In Class Challenge: Sensor Taming – Scaling & Amplification
+		
+- For Homework:
+	- Work on Final Project – prepare Alpha version for next week
+
+For Homework:
+		Work on Final Project
+
+###Week 14: May 12 – Last Day of Class
+- In Class:
+	- In-class trouble shooting
+	- Studio time
+		
+	- For Homework:
+		- Work on Final Project
+
+###Week 15: May 19 – Final Presentations and Critique
 
 
