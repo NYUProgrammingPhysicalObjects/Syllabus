@@ -141,7 +141,7 @@ Grades will be attributed to work based on your understanding and comprehension 
 
 Please see the chart below for examples.
 
-[grade rubric]: https://github.com/NYUProgrammingPhysicalObjects/Syllabus/images/commongradeChartP_comp
+![grade rubric]:http://www.katherinebennett.net/gradeChartP_comp.png
 
 
 
