@@ -178,7 +178,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 
 ###Week 3: February 10- 
 - In Class: 
-		- Present Exercise 1 & Fantasy Device
+		- **Present Exercise 1 & Fantasy Device**
 		- Workshop: Switches & DIY
 		- Sketch and Design 3 different custom switches
 
@@ -190,7 +190,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 
 ###Week 4: February 17
 - In Class:
-	- Present Switches working in a simple circuit
+	- **Present Switches working in a simple circuit**
 	- Workshop: Breadboard, Programming Arduino, Digital & Analog Out
 	- Stupid Pet Tricks brief announced
 		
@@ -217,7 +217,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 		
 ###Week 6: March 3 
 - In Class:
-	- Present Stupid Pet Tricks
+	- **Present Stupid Pet Tricks**
 	- Workshop: Controlling higher watt & AC devices – DC motors, relays, TIP’s, voltage regulators
 	- In-Class Challenge: Controlling high output devices
 		
@@ -270,7 +270,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 
 ###Week 10: April 7th 
 - In Class:
-	- Roundtable for the Final
+	- **Roundtable for the Final**
 	- Workshop: Other devices & libraries: Kinect, small screens, buses & hub
 
 - For Homework:
@@ -297,7 +297,6 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 	
 - For Homework:
 	- UX Study and Feedback
-
 		
 ###Week 13: May 5
 - In Class:
@@ -309,9 +308,9 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 	- In-class trouble shooting
 	- Studio time
 		
-	- For Homework:
+- For Homework:
 		- Work on Final Project
 
-###Week 15: May 19 – Final Presentations and Critique
+###Week 15: **May 19 – Final Presentations and Critique**
 
 
