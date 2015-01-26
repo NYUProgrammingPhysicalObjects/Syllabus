@@ -143,6 +143,26 @@ Please see the chart below for examples.
 
 ![grade rubric](http://www.katherinebennett.net/gradeChartP_comp.png)
 
+##Technology in the Classroom
+Laptop use is fine if you are using your laptop to present in class, or if we're in the middle of an exercise that makes use of it. Otherwise, however, please keep your laptop closed. The quality of the class depends in large part on the quality of your attention and active participation. In particular, give your fellow students the respect you deserve in return, and close your laptop and give them your full attention when they are presenting work.
+
+
+##Course Outline: (tentative. subject to change at any time. Check your email)
+
+##Part 1: Basic circuits, basic programming, input and output
+
+###Week 1: January 27 - Introductions, Syllabus, interaction
+
+	####For Homework:
+		- Read:
+			- The Art of Interaction Design by Chris Crawford, Ch. 1 & 2 
+			- A Brief Rant on the Future of Interaction Design by Bret Victor (link)
+			- Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms by Ishii and Ullmer 
+		- Do:	
+			- Look through your kits and familiarize yourself with all the parts and their roles. Be able to identify parts visually and know their role/task.
+
+
+
 
 
 
