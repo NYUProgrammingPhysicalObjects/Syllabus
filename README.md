@@ -149,19 +149,32 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 
 ##Course Outline: (tentative. subject to change at any time. Check your email)
 
-##Part 1: Basic circuits, basic programming, input and output
+###Part 1: Basic circuits, basic programming, input and output
 
-###Week 1: January 27 - Introductions, Syllabus, interaction
+###Week 1: January 27 - Introductions, Syllabus, wireframes, interaction
 
-	####For Homework:
-		- Read:
-			- The Art of Interaction Design by Chris Crawford, Ch. 1 & 2 
-			- A Brief Rant on the Future of Interaction Design by Bret Victor (link)
-			- Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms by Ishii and Ullmer 
-		- Do:	
-			- Look through your kits and familiarize yourself with all the parts and their roles. Be able to identify parts visually and know their role/task.
+####For Homework:
+- Read:
+	- The Art of Interaction Design by Chris Crawford, Ch. 1 & 2 
+	- A Brief Rant on the Future of Interaction Design by Bret Victor (link)
+	- Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms by Ishii and Ullmer 
+- Do:	
+	- Look through your kits and familiarize yourself with all the parts and their roles. Be able to identify parts visually and know their role/task.
 
 
+###Week 2: February 3
+-In Class:
+		Parts 101 Quiz
+		Workshop: Basic Circuits, parallel & series, ohm, switches
+
+- For Homework:
+	- Read:
+		- Interaction Design, Ch. 1 & 2 (email)
+		- How to Get what You Want, Switches page - http://www.kobakant.at/DIY/?cat=26
+	- Do:
+		Exercise 1:Sensor Walk - Spend a day noting every time you encounter a sensor, touchscreen, camera, or any other device with which you or someone interacting with you interacts. Make notes and take photographs. Create a PDF of these ALL these experiences; highlight your top 3 favorites.	
+
+		Design 1: Create a mock-up design for a fantasy device.  Use wireframes to describe how this device looks and functions. This device can be simple or complex but should not be a simple add-on to an existing device. Think of the behaviors and capabilities that are needed. Create an image detailing the device and a short description. Submit it as a PDF.
 
 
 
