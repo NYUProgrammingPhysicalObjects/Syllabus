@@ -87,12 +87,13 @@ This class assumes no prior knowledge of physical computing, but it does some pr
 -	YOUR LAPTOP….AT ALL TIMES….YOUR LAPTOP
 -	The following additional required readings will be emailed to you:	
 		-	Using Digital but Physical Surrogates to Media Awareness, Communication and Privacy in Media Spaces by Saul Greenberg and Hideaki Kuzuoka
-		-	http://worrydream.com/ ABriefRantOnTheFutureOfInteractionDesign/
+		-	[A Brief Rand On the Future of Interaction Design](http://worrydream.com/ ABriefRantOnTheFutureOfInteractionDesign/)
 		-	The Art of Interaction Design by Chris Crawford, Ch. 1 & 2 
 		-	Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms by Ishii and Ullmer 
 		-	Interaction Design, Ch. 1 & 2
 		-	DOET Ch. 1
--	Wordpress site for this and only for this class! Please EMAIL Elton Kwok to get setup. You can email him at: eltonkwok@nyu.edu. Upon emailing Elton, he will set you up on http://sites.bxmc.poly.edu/ . Here you will document your progress of your work in image, video and text. You will also document the end result here. This Wordpress site is largely to document your progress within your projects. This is important to this delicate medium.
+-	Wordpress site for this and only for this class! Please EMAIL Elton Kwok to get setup. You can email him at: eltonkwok@nyu.edu. Upon emailing Elton, he will set you up on http://sites.bxmc.poly.edu/ . Here you will document your progress of your work in image, video and text. You will also document the end result here. This Wordpress site is largely to document your progress within your projects. This is important to this delicate medium. Email me your blog link.
+- Also let Elton know that you need access to the Craft Room. Include this in your email regarding your Wordpress site.
 -	A Github handle. Email it to me.
 -	Regularly checking out [Github page](https://github.com/NYUProgrammingPhysicalObjects)
 
