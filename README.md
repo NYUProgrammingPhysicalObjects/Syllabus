@@ -178,6 +178,8 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 
 		Design 1: Create a mock-up design for a fantasy device.  Use wireframes to describe how this device looks and functions. This device can be simple or complex but should not be a simple add-on to an existing device. Think of the behaviors and capabilities that are needed. Create an image detailing the device and a short description. Submit it as a PDF.
 
+		Sketch up 3 ideas for a switch. Gather the materials and bring them to class for next week. Think simple and around the house. Cardboard boxes & tubes, scrap cloth, dig through your plastic recyclables. 
+
 ###Week 3: February 10
 - In Class: 
 		- **Present Exercise 1 & Fantasy Device**
