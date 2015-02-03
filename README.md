@@ -164,7 +164,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 
 ###Week 2: February 3
 -In Class:
-		- Parts 101 Quiz
+	
 		- Workshop: Basic Circuits, parallel & series, ohm, switches
 
 - For Homework:
@@ -176,9 +176,10 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 
 		Design 1: Create a mock-up design for a fantasy device.  Use wireframes to describe how this device looks and functions. This device can be simple or complex but should not be a simple add-on to an existing device. Think of the behaviors and capabilities that are needed. Create an image detailing the device and a short description. Submit it as a PDF.
 
-###Week 3: February 10- 
+###Week 3: February 10
 - In Class: 
 		- **Present Exercise 1 & Fantasy Device**
+		- **Quiz - Electronic Parts 101**
 		- Workshop: Switches & DIY
 		- Sketch and Design 3 different custom switches
 
