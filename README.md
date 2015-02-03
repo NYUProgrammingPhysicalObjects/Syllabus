@@ -5,7 +5,7 @@
 * **Integrated Digital Media**
 * **DM-GY 9103A: Programming Physical Objects**
 
-* **Tuesdays 7:30 – 9:50 pm**
+* **Tuesdays 7:00 – 9:50 pm**
 * **MetroTech 2 room 817**                        		   	    
 * **Spring 2015**
 * **Instructor: Katherine Bennett**    
