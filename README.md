@@ -132,11 +132,12 @@ This class assumes no prior knowledge of physical computing, but it does some pr
 ##Grading
 Your final grade will be based upon the following:
 
-Exercises: Daily Sensors, Sensor Taming – 5% each/10% total
-Design: Fantasy Device Mock-up, Custom Switch – 10% ea/20% total
-Stupid Pet Tricks I & II – 15% each/30% total
-Final Prototype (Alpha) – 10%
-Final Project – 25%
+Exercises: 
+- Daily Sensors, Sensor Taming – 5% each/10% total
+- Design: Fantasy Device Mock-up, Custom Switch – 10% ea/20% total
+- Stupid Pet Tricks I & II – 15% each/30% total
+- Final Prototype (Alpha) – 10%
+- Final Project – 25%
 
 Grades will be attributed to work based on your understanding and comprehension of the course materials (both from the texts and lectures), creativity, craft as well as professionalism, engagement and your improvement/development. All of these will be evident in your projects and participation throughout class. 
 
