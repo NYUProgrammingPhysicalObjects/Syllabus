@@ -165,7 +165,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 ###Week 2: February 3
 -In Class:
 	
-		- Workshop: Basic Circuits, parallel & series, ohm, switches
+	- Workshop: Basic Circuits, parallel & series, ohm, switches
 
 - For Homework:
 	- Read:
