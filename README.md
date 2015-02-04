@@ -171,7 +171,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 
 - For Homework:
 	- Read:
-		- Interaction Design, Ch. 1 & 2 (email)
+		- Readings from last week
 		- How to Get what You Want, Switches page - http://www.kobakant.at/DIY/?cat=26
 	- Do:
 		Exercise 1:Sensor Walk - Spend a day noting every time you encounter a sensor, touchscreen, camera, or any other device with which you or someone interacting with you interacts. Make notes and take photographs. Create a PDF of these ALL these experiences; highlight your top 3 favorites.	
@@ -192,6 +192,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 		- Design 2: Create 2 custom functioning DIY switches
 	- Read: 
 		- Arduino Cookbook - Read Ch 1, familiarize yourself with Ch 2
+		- Interaction Design, Ch. 1 & 2 (email)
 
 ###Week 4: February 17
 - In Class:
