@@ -245,7 +245,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 		- Read:
 			- Physical Computing – Ch. 9 Sensing Movement
 		- Do:
-			- ##[Exercise 2: Outputs With Interfaces & Sensor Taming](../../../OutputsWithInterfaces)
+			- [Exercise 2: Outputs With Interfaces & Sensor Taming](../../../OutputsWithInterfaces)
 	
 ###Spring Break – March 17th
 
@@ -317,5 +317,17 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 		- Work on Final Project
 
 ###Week 15: **May 19 – Final Presentations and Critique**
+
+Student Blogs
+
+[Billy](http://mypunkheart.tumblr.com/tagged/physicalobjects)
+[Hovsep](https://idm9103ha.wordpress.com)
+[Li](http://sites.bxmc.poly.edu/~lihuang/PPTW/)
+[Cassian](https://csw305.wordpress.com/)
+[Akshay](http://sites.bxmc.poly.edu/~akshayfadnis/PPO/)
+[Tiffany ](http://sites.bxmc.poly.edu/~tiffanyshu/PPO/)
+[Helen ](http://sites.bxmc.poly.edu/~HelenCarey/HCI/?p=198)
+[Louisa ](http://sites.bxmc.poly.edu/~mariawan/PPO/?p=11)
+Nick Lee
 
 
