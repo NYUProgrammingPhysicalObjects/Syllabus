@@ -5,12 +5,13 @@
 * **Integrated Digital Media**
 * **DM-GY 9103A: Programming Physical Objects**
 
-* **Tuesdays 7:00 – 9:50 pm**
+
+* **Tuesdays 7:30 – 9:50 pm**
 * **MetroTech 2 room 817**                        		   	    
 * **Spring 2015**
 * **Instructor: Katherine Bennett**    
 * **Office hours: by appointment**		
-* **katherine.bennett@nyu.edu** 
+* **katherinebennett@nyu.edu** 
 * **www.katherinebennett.net**
 
 
@@ -65,11 +66,15 @@ Material missed is the responsibility of the student to make up. Speak to severa
 
 ##Correspondence & Communication
 
-Email is the preferred initial contact (katherine.bennett@nyu.edu). Email is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. Emails should not be longer than 5 sentences.
+Email is the preferred initial contact (katherinebennett@nyu.edu). Email is suitable for short questions (to answers that cannot be found in the syllabus), to set up appointments, or to notify me about being late or absent. Emails should not be longer than 5 sentences.
 
 For matters longer than 5 sentences, please email me to make an appointment during office hours. This is the proper way to address longer questions, issues, to ask me about an assignment, review a grade you received, or to discuss other matters. If you send me a long email, I am simply going to respond by asking you to meet with me to resolve the matter. I will not resolve matters over email.
 
 If I have asked you to schedule an appointment with me, I am not trying to avoid you. I am offering you my full attention and preparation. Due to my schedule and other campus responsibilities, I ask you to respond to emails and to be respectful of time.
+
+##Educational Access
+
+If you are student with a learning difference (aka disability) who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found atwww.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
 ##Prerequisites / Hardware / Software
 
@@ -86,16 +91,15 @@ This class assumes no prior knowledge of physical computing, but it does some pr
 -	A notebook to take notes in (the [Maker Notebook](http://www.makershed.com/products/makers-hard-bound-notebook-168-pages) is a good one)
 -	YOUR LAPTOP….AT ALL TIMES….YOUR LAPTOP
 -	The following additional required readings will be emailed to you:	
-		- Using Digital but Physical Surrogates to Media Awareness, Communication and Privacy in Media Spaces by Saul Greenberg and Hideaki Kuzuoka
-		- [A Brief Rand On the Future of Interaction Design](http://worrydream.com/ ABriefRantOnTheFutureOfInteractionDesign/)
-		- The Art of Interaction Design by Chris Crawford, Ch. 1 & 2 
-		- Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms by Ishii and Ullmer 
-		- Interaction Design, Ch. 1 & 2
-		- DOET Ch. 1
--	Wordpress site for this and only for this class! Please EMAIL Elton Kwok to get setup. You can email him at: eltonkwok@nyu.edu. Upon emailing Elton, he will set you up on http://sites.bxmc.poly.edu/ . Here you will document your progress of your work in image, video and text. You will also document the end result here. This Wordpress site is largely to document your progress within your projects. This is important to this delicate medium. Email me your blog link.
-- Also let Elton know that you need access to the Craft Room. Include this in your email regarding your Wordpress site.
+		-	Using Digital but Physical Surrogates to Media Awareness, Communication and Privacy in Media Spaces by Saul Greenberg and Hideaki Kuzuoka
+		-	http://worrydream.com/ ABriefRantOnTheFutureOfInteractionDesign/
+		-	The Art of Interaction Design by Chris Crawford, Ch. 1 & 2 
+		-	Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms by Ishii and Ullmer 
+		-	Interaction Design, Ch. 1 & 2
+		-	DOET Ch. 1
+-	Wordpress site for this and only for this class! Please EMAIL Elton Kwok to get setup. You can email him at: eltonkwok@nyu.edu. Upon emailing Elton, he will set you up on http://sites.bxmc.poly.edu/ . Here you will document your progress of your work in image, video and text. You will also document the end result here. This Wordpress site is largely to document your progress within your projects. This is important to this delicate medium.
 -	A Github handle. Email it to me.
--	Regularly checking out [Github page](https://github.com/NYUProgrammingPhysicalObjects)
+-	Regularly checking out [Github page](https://github.com/IDMNYU/DMGY9103A_ProgrammingPhysicalObjects)
 
 ##Suggested Texts
 
@@ -132,12 +136,11 @@ This class assumes no prior knowledge of physical computing, but it does some pr
 ##Grading
 Your final grade will be based upon the following:
 
-Exercises: 
-- Daily Sensors, Sensor Taming – 5% each/10% total
-- Design: Fantasy Device Mock-up, Custom Switch – 10% ea/20% total
-- Stupid Pet Tricks I & II – 15% each/30% total
-- Final Prototype (Alpha) – 10%
-- Final Project – 25%
+Exercises: Daily Sensors, Sensor Taming – 5% each/10% total
+Design: Fantasy Device Mock-up, Custom Switch – 10% ea/20% total
+Stupid Pet Tricks I & II – 15% each/30% total
+Final Prototype (Alpha) – 10%
+Final Project – 25%
 
 Grades will be attributed to work based on your understanding and comprehension of the course materials (both from the texts and lectures), creativity, craft as well as professionalism, engagement and your improvement/development. All of these will be evident in your projects and participation throughout class. 
 
@@ -158,32 +161,29 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 ####For Homework:
 - Read:
 	- The Art of Interaction Design by Chris Crawford, Ch. 1 & 2 
-	- A Brief Rant on the Future of Interaction Design by Bret Victor (link)
+	- [A Brief Rant on the Future of Interaction Design by Bret Victor](lhttp://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/)
 	- Tangible Bits: Towards Seamless Interfaces between People, Bits and Atoms by Ishii and Ullmer 
 - Do:	
-	- Look through your kits and familiarize yourself with all the parts and their roles. Be able to identify parts visually and know their role/task.
+	- Look through your kits and familiarize yourself with all the parts and their roles. Be able to identify parts visually and know their role/task. See the Make reference pages emailed to you.
 
 
 ###Week 2: February 3
 -In Class:
-	
-	- Workshop: Basic Circuits, parallel & series, ohm, switches
+		- Workshop: Basic Circuits, parallel & series, ohm, switches
 
 - For Homework:
 	- Read:
-		- Readings from last week
+		- Interaction Design, Ch. 1 & 2 (email)
 		- How to Get what You Want, Switches page - http://www.kobakant.at/DIY/?cat=26
 	- Do:
 		Exercise 1:Sensor Walk - Spend a day noting every time you encounter a sensor, touchscreen, camera, or any other device with which you or someone interacting with you interacts. Make notes and take photographs. Create a PDF of these ALL these experiences; highlight your top 3 favorites.	
 
 		Design 1: Create a mock-up design for a fantasy device.  Use wireframes to describe how this device looks and functions. This device can be simple or complex but should not be a simple add-on to an existing device. Think of the behaviors and capabilities that are needed. Create an image detailing the device and a short description. Submit it as a PDF.
 
-		Sketch up 3 ideas for a switch. Gather the materials and bring them to class for next week. Think simple and around the house. Cardboard boxes & tubes, scrap cloth, dig through your plastic recyclables. 
-
-###Week 3: February 10
+###Week 3: February 10- 
 - In Class: 
+		- **Parts 101 Quiz**
 		- **Present Exercise 1 & Fantasy Device**
-		- **Quiz - Electronic Parts 101**
 		- Workshop: Switches & DIY
 		- Sketch and Design 3 different custom switches
 
@@ -192,7 +192,6 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 		- Design 2: Create 2 custom functioning DIY switches
 	- Read: 
 		- Arduino Cookbook - Read Ch 1, familiarize yourself with Ch 2
-		- Interaction Design, Ch. 1 & 2 (email)
 
 ###Week 4: February 17
 - In Class:
@@ -207,6 +206,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 	- Do:
 		- Gather materials/devices/supplies for Stupid Pet Tricks I
 		- Start hacking and assembling Stupid Pet Tricks I: Stage 1: make output happen
+		- Acquire DC Power supply
 		
 ###Week 5: February 24
 - In Class:
@@ -245,9 +245,8 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 		- Read:
 			- Physical Computing – Ch. 9 Sensing Movement
 		- Do:
-			- TBA
+			- ## [Exercise 2: Outputs With Interfaces & Sensor Taming](../../../OutputsWithInterfaces)
 	
-
 ###Spring Break – March 17th
 
 ###Week 8: March 24
