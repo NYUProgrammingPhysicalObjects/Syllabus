@@ -245,7 +245,7 @@ Laptop use is fine if you are using your laptop to present in class, or if we're
 		- Read:
 			- Physical Computing – Ch. 9 Sensing Movement
 		- Do:
-			- ## [Exercise 2: Outputs With Interfaces & Sensor Taming](../../../OutputsWithInterfaces)
+			- ##[Exercise 2: Outputs With Interfaces & Sensor Taming](../../../OutputsWithInterfaces)
 	
 ###Spring Break – March 17th
 
